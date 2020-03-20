@@ -1,0 +1,51 @@
+@charset "UTF-8";
+
+div a{
+    align-content: center;
+    padding-right: 30px;
+}
+
+.fakeimg {
+    height: 200px;
+    image-rendering: auto;
+    
+  }
+
+  footer{
+      text-align: center;
+      
+  }
+
+  body{
+    background-color: rgb(98, 88, 235);
+
+}
+
+header{
+    text-align: center;
+
+}
+
+section{
+
+    background-color: wheat;
+    border-radius: 10px;
+    text-align: center;
+    margin: auto;
+    padding: 15px;
+    width: 500px;
+}
+
+footer{
+
+    color: black;
+    text-align: center;
+    font-style: italic;
+
+}
+
+img#foto{
+    height: 190px;
+    padding: 5px;
+}
+
